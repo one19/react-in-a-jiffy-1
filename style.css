@@ -10,3 +10,9 @@ html, body {
 * {
   box-shadow: 1px 1px 3px palegoldenrod;
 }
+
+h1 {
+  font-family: 'Baloo Tammudu', cursive;
+  text-transform: uppercase;
+  color: #F17;
+}
