@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: auto;
+  height: 100vh;
+  color: #C0FFEE;
+  background-color: #000000;
+}
+
+* {
+  box-shadow: 1px 1px 3px palegoldenrod;
+}
